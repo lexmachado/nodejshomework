@@ -48,4 +48,4 @@ function init() {
 }
 
 // Function call to initialize app
- init(); 
+ init(); generateMarkdown = inquirer ("fs")
